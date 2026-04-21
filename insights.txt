@@ -1,0 +1,21 @@
+PROJECT INSIGHTS
+
+1. Electronics is the highest revenue-generating category, driven by high-value products like Laptop, Mobile, and Monitor.
+
+2. Laptop remains the top-selling product by revenue, followed by Mobile and Tablet.
+
+3. Accessories and Clothing categories show frequent purchases but lower revenue per order, indicating low-cost, high-volume sales.
+
+4. Furniture category contributes moderate revenue with products like Desk and Chair, showing potential for growth.
+
+5. Stationery category has the highest quantity sold (Pens, Notebooks) but very low revenue, highlighting low-price bulk sales.
+
+6. Monthly sales show a consistent increasing trend from January to August, indicating business growth over time.
+
+7. July and August recorded the highest sales due to a wider variety of products and increased transactions.
+
+8. Average order value is balanced, with a mix of high-ticket and low-ticket products.
+
+9. High-value electronics products contribute the majority of total revenue despite fewer quantities sold.
+
+10. Product diversification (Electronics, Clothing, Furniture, Stationery) helps maintain steady overall sales performance.
